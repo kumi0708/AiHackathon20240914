@@ -14,3 +14,8 @@ https://docs.google.com/presentation/d/14VJGOKSQFBIHeJiUK0JRTbCpGEAh5PY_tFy33Sup
 <br>
 <br>
 <br>
+技術として<br>
+opneai whisper<br>
+chatgpt api<br>
+voisebox<br>
+を使って作品を作りました。
