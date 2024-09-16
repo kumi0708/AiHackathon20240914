@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/14VJGOKSQFBIHeJiUK0JRTbCpGEAh5PY_tFy33Sup
 <br>
 <br>
 技術として<br>
-opneai whisper<br>
-chatgpt api<br>
-voisebox<br>
+[opneai whisper](https://github.com/openai/whisper)<br>
+[chatgpt api](https://platform.openai.com/docs/api-reference/authentication) <br>
+[voisebox](https://voicevox.hiroshiba.jp/)<br>
 を使って作品を作りました。
